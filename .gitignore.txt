@@ -1,0 +1,20 @@
+# Jupyter stuff
+.ipynb_checkpoints/
+
+# All dataset folders
+data/
+newdata/
+small_dataset/
+archive/
+OUTPUT_DIR/
+smalldata_output/
+
+# Any future dataset folders
+*dataset*/
+*data*/
+
+# Large files
+*.pth
+*.h5
+*.zip
+*.csv
